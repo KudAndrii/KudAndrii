@@ -1,6 +1,6 @@
-# 💫 About Me:
-I'm currently working on multiple projects like nuget packages form Umbraco CMS and some web projects<br><br><br>I'm currently learning Nuxt<br>Ask me about anything you consider appropriate<br>Fun fact
-
+# 🚀 Current Projects
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=UmbracoExtensions&theme=gruvbox)](https://github.com/KudAndrii/UmbracoExtensions)
+[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=ProjectH&theme=gruvbox)](https://github.com/KudAndrii/ProjectH)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-kud-237b101b0) 
