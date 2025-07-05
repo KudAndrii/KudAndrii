@@ -1,6 +1,6 @@
 # 🚀 Current Projects
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=UmbracoExtensions&theme=gruvbox)](https://github.com/KudAndrii/UmbracoExtensions)
-[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=ProjectH&theme=gruvbox)](https://github.com/KudAndrii/ProjectH)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=UmbracoExtensions&theme=gruvbox&v=2)](https://github.com/KudAndrii/UmbracoExtensions)
+[![Another Repo](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=ProjectH&theme=gruvbox&v=2)](https://github.com/KudAndrii/ProjectH)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-kud-237b101b0) 
