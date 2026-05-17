@@ -70,7 +70,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KudAndrii&theme=gruvbox)
 
 ### 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=KudAndrii&theme=gruvbox&no-frame=true&column=6&margin-w=4&hide=FOLLOWERS,REVIEWS)
+![](https://github-profile-trophy.vercel.app/?username=KudAndrii&theme=gruvbox&no-frame=true&column=6&margin-w=4&hide=FOLLOWER,REVIEWS)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
