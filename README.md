@@ -1,7 +1,7 @@
 # 🚀 Current Projects
-[![MyCleaner](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=MyCleaner&theme=gruvbox&v=2)](https://github.com/KudAndrii/MyCleaner)
-[![UmbracoExtensions](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=UmbracoExtensions&theme=gruvbox&v=2)](https://github.com/KudAndrii/UmbracoExtensions)
-[![ProjectH](https://github-readme-stats.vercel.app/api/pin/?username=KudAndrii&repo=ProjectH&theme=gruvbox&v=2)](https://github.com/KudAndrii/ProjectH)
+[![MyCleaner](https://img.shields.io/badge/MyCleaner-fe8019?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/MyCleaner)
+[![UmbracoExtensions](https://img.shields.io/badge/UmbracoExtensions-fabd2f?style=for-the-badge&logo=github&logoColor=black)](https://github.com/KudAndrii/UmbracoExtensions)
+[![ProjectH](https://img.shields.io/badge/ProjectH-83a598?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/ProjectH)
 
 ## 🌍 Live Projects
 [![bonds-ua.info](https://img.shields.io/badge/bonds--ua.info-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://bonds-ua.info)
