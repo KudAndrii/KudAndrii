@@ -40,12 +40,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KudAndrii&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KudAndrii&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
-### 📈 Contribution Activity (last 12 months, all repos)
-![](https://github-readme-activity-graph.vercel.app/graph?username=KudAndrii&theme=gruvbox&hide_border=false&area=true&days=365&radius=14)
-
 ### 🧩 Profile-Wide Activity
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KudAndrii&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KudAndrii&theme=gruvbox&utcOffset=2)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KudAndrii&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KudAndrii&theme=gruvbox)
 
