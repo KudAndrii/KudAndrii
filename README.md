@@ -13,7 +13,7 @@
 
 ## 💻 Swift Projects
 [![MyCleaner](https://img.shields.io/badge/MyCleaner-fe8019?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/MyCleaner)
-[![MyCooler](https://img.shields.io/badge/MyCleaner-fe8019?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/MyCooler)
+[![MyCooler](https://img.shields.io/badge/MyCooler-fe8019?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/MyCooler)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-kud-237b101b0) 
