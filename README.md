@@ -1,5 +1,4 @@
 # 🚀 Current Projects
-[![MyCleaner](https://img.shields.io/badge/MyCleaner-fe8019?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/MyCleaner)
 [![UmbracoExtensions](https://img.shields.io/badge/UmbracoExtensions-fabd2f?style=for-the-badge&logo=github&logoColor=black)](https://github.com/KudAndrii/UmbracoExtensions)
 [![ProjectH](https://img.shields.io/badge/ProjectH-83a598?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/ProjectH)
 
@@ -11,6 +10,10 @@
 [![Dropdown](https://img.shields.io/nuget/dt/AndrewK.Umbraco.Dropdown?style=for-the-badge&logo=nuget&logoColor=white&label=Dropdown&color=004880)](https://www.nuget.org/packages/AndrewK.Umbraco.Dropdown)
 [![CheckBoxList](https://img.shields.io/nuget/dt/AndrewK.Umbraco.CheckBoxList?style=for-the-badge&logo=nuget&logoColor=white&label=CheckBoxList&color=004880)](https://www.nuget.org/packages/AndrewK.Umbraco.CheckBoxList)
 [![RadioButtonList](https://img.shields.io/nuget/dt/AndrewK.Umbraco.RadioButtonList?style=for-the-badge&logo=nuget&logoColor=white&label=RadioButtonList&color=004880)](https://www.nuget.org/packages/AndrewK.Umbraco.RadioButtonList)
+
+## 💻 Swift Projects
+[![MyCleaner](https://img.shields.io/badge/MyCleaner-fe8019?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/MyCleaner)
+[![MyCooler](https://img.shields.io/badge/MyCleaner-fe8019?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudAndrii/MyCooler)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-kud-237b101b0) 
